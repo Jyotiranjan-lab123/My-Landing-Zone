@@ -1,0 +1,11 @@
+variable "rg" {}
+variable "storage-module" {}
+variable "rkvnet" {}
+variable "rksubnet" {}
+variable "nic-details" {}
+variable "pip" {}
+variable "virtualm" {}
+variable "bsdetails" {}
+variable "lb" {}
+variable "peering-details" {}
+variable "nsgdetails" {}
